@@ -18,7 +18,18 @@ For example, to build the comfort profiles in climate type A, for Summer, take t
 An example code in MATLAB to plot the profiles is included. Please download the entire folder and run PlotProfiles.m
 
 
-The dataset is part of the work from the manuscript "Energy Consequences of Comfort-driven Temperature Setpoints in Office Buildings", Aryal A, Becerik-Gerber B
+The dataset is part of the work from the paper "Energy Consequences of Comfort-driven Temperature Setpoints in Office Buildings", Aryal A, Becerik-Gerber B
 Please cite the paper if your work uses these comfort profiles.
 For more information please contact Ashrant Aryal at: aaryal@usc.edu
 
+Aryal, Ashrant, and Burcin Becerik-Gerber. "Energy consequences of Comfort-driven temperature setpoints in office buildings." Energy and Buildings 177 (2018): 33-46. https://doi.org/10.1016/j.enbuild.2018.08.013
+
+@article{aryal2018energy,
+  title={Energy consequences of Comfort-driven temperature setpoints in office buildings},
+  author={Aryal, Ashrant and Becerik-Gerber, Burcin},
+  journal={Energy and Buildings},
+  volume={177},
+  pages={33--46},
+  year={2018},
+  publisher={Elsevier}
+}
